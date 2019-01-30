@@ -1,7 +1,8 @@
 # eduApp
 A site like udemy
 
-Plese read this readme file in RAW format
+Plese read this readme file in RAW OR BLAME format
+
 //use POSTMAN
 
 1) COURSES
